@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio oficial de **New Store**! Este proyecto es un sitio web estático desarrollado como una tienda en línea moderna y responsiva, especializada en la venta de productos y accesorios gaming de alta calidad.
 
-🌐 **Enlace en vivo:** [https://tu-usuario.github.io/nombre-repo/](https://chiuyarisanchez23-max.github.io/New-Store/)
+🌐 **Enlace de pagina web:** [NewStore](https://chiuyarisanchez23-max.github.io/New-Store/)
 
 ---
 
