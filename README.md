@@ -30,6 +30,7 @@
     ├── Webcam.jpg
     ├── Parlantes.jpg
     ├── Control.jpg
+    ├── FondoInicio.jpg
     ├── SoporteAudifono.jpg
     ├── SillaGamer.jpg
     └── KitGamer.jpg
